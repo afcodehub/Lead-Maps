@@ -25,7 +25,7 @@
 <br/>
 
 <!-- CTA BUTTONS -->
-<a href="https://github.com/afcodehub/Lead-Maps-Extension/raw/main/Lead-Maps-Extension.zip">
+<a href="https://github.com/afcodehub/Lead-Maps/raw/main/Lead-Maps-Extension.zip">
   <img src="https://img.shields.io/badge/⬇️%20%20DOWNLOAD%20EXTENSÃO-22c55e?style=for-the-badge&logoColor=white" height="40" alt="Download"/>
 </a>
 
